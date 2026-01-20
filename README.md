@@ -63,20 +63,25 @@ npm install @oriolperezolivares/react-divider
 
 ## 🌟 Featured Projects
 
+### [Web Scraper Toolkit](https://github.com/operezol/web-scraper-toolkit)
+Professional web scraping monorepo with REST API, CLI tool, and Web Dashboard.
+- **Stack:** TypeScript, React, Express, pnpm workspaces, Commander
+- **Features:** Monorepo architecture, Shared packages, Real-time control
+
+### [Pomodoro Timer v2](https://github.com/operezol/pomodoro-v2)
+Modern, aesthetic focus timer built for performance and user experience.
+- **Stack:** React 18, TypeScript, Vite, Tailwind CSS, Zustand
+- **Features:** Persistent data, Audio/Notifications, Glassmorphism UI
+
+### [Typewriter Effect](https://github.com/operezol/typewriter-v2)
+Advanced touch-typing trainer and typewriter effect component.
+- **Stack:** React 18, TypeScript, Tailwind CSS
+- **Features:** Progressive lessons, WPM/Accuracy stats, Virtual keyboard
+
 ### [GTA Grinding Manager](https://github.com/operezol/gta-grinding-manager)
-Full-stack web application for optimizing GTA Online farming sessions with real-time analytics and persistent data.
-- **Stack:** Node.js, Express, SQLite, React (migrating to TypeScript + Vite)
-- **Features:** REST API, Real-time tracking, Data visualization
-
-### [EcoSim](https://github.com/operezol/EcoSim)
-Ecosystem simulation game teaching conservation through interactive gameplay.
-- **Stack:** JavaScript (rewriting in React + TypeScript)
-- **Features:** Complex simulation mechanics, Interactive visualization
-
-### [Typewriter Effect](https://github.com/operezol/typewriter)
-Modern typewriter effect component with multiple animation styles.
-- **Stack:** React, TypeScript, Tailwind CSS
-- **Features:** Customizable animations, Responsive design
+Full-stack application for optimizing game economy with analytics.
+- **Stack:** Node.js, Express, SQLite, React (Migrating to TS+Vite)
+- **Features:** REST API, Data visualization, Persistent tracking
 
 ---
 
@@ -96,10 +101,10 @@ Modern typewriter effect component with multiple animation styles.
 
 ## 💼 What I'm Working On
 
-- 🔨 Building **@oriolperezolivares/tailwind-grid-system** - Advanced grid components for Tailwind CSS
-- 🎨 Creating a professional **dashboard template** with React + TypeScript
-- 📚 Developing a **component library** with Storybook documentation
-- 🚀 Migrating legacy projects to modern stack (React + TypeScript + Vite + Tailwind)
+- 🔨 Developing **Calculator Pro** - A comprehensive scientific calculator
+- 🎨 Building **@oriolperezolivares/tailwind-grid-system** - Advanced grid components
+- 🚀 Finalizing **Portfolio Website** to showcase all projects
+- 🔄 Migrating **gta-grinding-manager** frontend to modern React + TS
 
 ---
 
